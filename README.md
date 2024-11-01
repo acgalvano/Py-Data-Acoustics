@@ -1,2 +1,3 @@
 # Py_Data_Acoustics
 Python Data Processing Basics for Acoustic Analysis
+This tutorial walks through some key domain-specific Python-based tools you should be aware of in order to take your audio data, annotations, and speaker metadata and come away with tabular data containing acoustic measures that can then be visualized and submitted to statistical analysis. It assumes coding experience at the level of D-Lab’s Python Fundamentals. It covers how to import TextGrid tiers and speaker metadata using dir2df and how to load in audio files to your jupyter notebook using audiolabel (https://github.com/rsprouse), as well as how to extract a series of acoustic measures using the parselmouth library.
