@@ -1,0 +1,4 @@
+speaker,age,gender,sexuality,race_ethnicity,SES,place_origin,L1s
+S01,22,cisgender male,gay,"White, Latino",middle class,Seattle,"Spanish, English"
+S02,22,male,bisexual,Caucasian,low-middle class,Michigan,English
+S03,25,cis woman,straight,"Black, African-American",low-to-middle class,"Houston & Lubbock, TX",English
